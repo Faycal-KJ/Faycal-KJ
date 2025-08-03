@@ -9,9 +9,9 @@
 ## 🚀 About Me
 
 - 🎓 Second-year CS student at **Hassiba Ben Bouali UHBC**
-- 🤖 Building real-world AI solutions, from titanic survival prediction to crypto forecasting
-- 🔭 Currently improving my AI assistant project (voice, emotion, commands)
-- 📚 Learning daily: advanced ML/AI concepts, SQL, React,and building smarter Projects
+- 🤖 Building real-world AI solutions — from Titanic survival prediction to crypto forecasting
+- 🔭 Currently enhancing my AI assistant (voice control, emotion detection, smart commands)
+- 📚 Always learning: advanced ML/AI concepts, SQL, React, and building smarter projects
 
 ---
 
@@ -47,6 +47,9 @@ Time-series prediction using LSTM (Keras + TensorFlow) to forecast Bitcoin price
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AZWOLD&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AZWOLD&theme=tokyonight" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZWOLD&layout=compact&theme=tokyonight" />
