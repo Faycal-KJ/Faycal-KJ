@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Faisal 👋</h1>
+<h1 align="center">Hi there, I'm Faycal 👋</h1>
 <p align="center">
   🧠 AI Enthusiast | 💻 Developer | 📈 Machine Learning Explorer  
   <br>Crafting intelligent systems with code & curiosity.
