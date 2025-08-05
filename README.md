@@ -33,13 +33,13 @@
 
 ## 📂 Highlight Projects
 
-### 🧠 [AI Assistant](https://github.com/AZWOLD/AETHER_AI_Assistant)
+### 🧠 [AI Assistant](https://github.com/Faycal-KJ/AETHER_AI_Assistant)
 A voice-controlled assistant with emotion detection, smart home control, and multi-device awareness.
 
-### 🎯 [Titanic Survival Predictor](https://github.com/AZWOLD/Titanic_PRE_ML)
+### 🎯 [Titanic Survival Predictor](https://github.com/Faycal-KJ/Titanic_PRE_ML)
 ML model using logistic regression to predict passenger survival using Scikit-learn.
 
-### 📈 [Bitcoin Price Forecast](https://github.com/AZWOLD/BitCoin_PRE_ML)
+### 📈 [Bitcoin Price Forecast](https://github.com/Faycal-KJ/BitCoin_PRE_ML)
 Time-series prediction using LSTM (Keras + TensorFlow) to forecast Bitcoin prices.
 
 ---
