@@ -46,13 +46,13 @@ Time-series prediction using LSTM (Keras + TensorFlow) to forecast Bitcoin price
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AZWOLD&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faycal-KJ&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AZWOLD&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Faycal-KJ&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZWOLD&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faycal-KJ&layout=compact&theme=tokyonight" />
 </p>
 
 ---
